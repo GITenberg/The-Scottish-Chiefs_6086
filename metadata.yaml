@@ -1,0 +1,27 @@
+_repo: The-Scottish-Chiefs_6086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Porter, Jane
+    birthdate: 1776
+    deathdate: 1850
+    gutenberg_agent_id: '1942'
+    url: http://www.gutenberg.org/2009/agents/1942
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Porter
+description: William Wallace encounters secret passageways, disguises, and a quintet
+  of horrible villains as he fights for Scotland at the turn of the fourteenth century.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scotland -- History -- War of Independence, 1285-1371 -- Fiction'
+- GITenberg
+title: The Scottish Chiefs
+url: http://www.gutenberg.org/ebooks/6086
