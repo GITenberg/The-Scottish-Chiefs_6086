@@ -1,5 +1,8 @@
 _repo: The-Scottish-Chiefs_6086
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Porter, Jane
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Jane_Porter
 description: William Wallace encounters secret passageways, disguises, and a quintet
   of horrible villains as he fights for Scotland at the turn of the fourteenth century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6086#The-Scottish-Chiefs
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
